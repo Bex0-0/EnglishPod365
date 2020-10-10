@@ -1,2 +1,1 @@
-
-No audio review and lesson dialogue for this lesson.
+Audio review for this lesson is incomplete.
